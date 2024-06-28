@@ -59,9 +59,6 @@ This project is a web application designed to connect blood donors with seekers.
 - Use the search functionality to find blood donors or seekers based on blood type and location.
 - Manage your profile and contact potential matches.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 - [XAMPP](https://www.apachefriends.org/index.html)
 - [PHP](https://www.php.net/)
